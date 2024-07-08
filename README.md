@@ -3,7 +3,7 @@ Teste de Laravel
 
 ## Desenvolver a partir do modelo ER abaixo uma API utilizando a linguagem PHP com o framework Laravel implementado JWT como método de autenticação. 
 
- ● Deve ser entregue via github: <br>
+ ● Deve ser entregue via github (não fazer fork): <br>
  ● o .json exportado pelo insomnia/postman para avaliação do desafio. <br>
  ● código fonte <br>
  ● estrutura do Banco de Dados <br>
