@@ -1,5 +1,5 @@
 # Prova de Avaliação
-Teste de Laravel 
+Teste de Python 
 
 ## Desenvolver a partir do modelo ER abaixo uma API utilizando a linguagem Python com framework a sua escolha implementado JWT como método de autenticação. 
 
